@@ -1,0 +1,6 @@
+C:\Users\Nick\Source\Repos\Mailbox\Mailbox\bin\Debug\Mailbox.dll
+C:\Users\Nick\Source\Repos\Mailbox\Mailbox\bin\Debug\Mailbox.pdb
+C:\Users\Nick\Source\Repos\Mailbox\Mailbox\obj\Debug\Mailbox.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\Mailbox\Mailbox\obj\Debug\Mailbox.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\Mailbox\Mailbox\obj\Debug\Mailbox.dll
+C:\Users\Nick\Source\Repos\Mailbox\Mailbox\obj\Debug\Mailbox.pdb
